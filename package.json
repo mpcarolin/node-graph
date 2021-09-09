@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@keg-hub/ask-it": "^0.0.2",
-    "dependency-graph": "0.11.0"
+    "dependency-graph": "0.11.0",
+    "jest": "^27.1.1"
   }
 }
